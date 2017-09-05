@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>775009504275-p434je6u6agpq97jia6nl374ugitmn4q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.775009504275-p434je6u6agpq97jia6nl374ugitmn4q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdccGA0EsLdd7NODUzEjbhAx-QEF_go74</string>
+	<key>GCM_SENDER_ID</key>
+	<string>775009504275</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.helpme-service.security</string>
+	<key>PROJECT_ID</key>
+	<string>geotest-1034c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>geotest-1034c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:775009504275:ios:9fe8684b4aa5bdfa</string>
+	<key>DATABASE_URL</key>
+	<string>https://geotest-1034c.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+use_frameworks!
+
+target ‘HelpMeSecurity’ do
+pod 'AKMaskField'
+pod 'Firebase/Core'
+pod 'Firebase/Database'
+end
